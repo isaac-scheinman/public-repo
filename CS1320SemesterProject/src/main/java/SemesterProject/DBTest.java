@@ -1,6 +1,7 @@
 package SemesterProject;
 
 import SemesterProject.Database.Database;
+import net.sf.jsqlparser.JSQLParserException;
 
 /**
  * Tests the SemesterProject.Database class and prints out results
@@ -18,7 +19,7 @@ public class DBTest
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws JSQLParserException {
         System.out.println("------------------------------------------------------------");
         System.out.println("------------------------------------------------------------");
         System.out.println("------------------------------------------------------------");
