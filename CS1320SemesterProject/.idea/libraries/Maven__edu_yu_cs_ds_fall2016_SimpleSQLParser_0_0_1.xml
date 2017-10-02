@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.yu.cs.ds.fall2016:SimpleSQLParser:0.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/yu/cs/ds/fall2016/SimpleSQLParser/0.0.1/SimpleSQLParser-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/yu/cs/ds/fall2016/SimpleSQLParser/0.0.1/SimpleSQLParser-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/yu/cs/ds/fall2016/SimpleSQLParser/0.0.1/SimpleSQLParser-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
